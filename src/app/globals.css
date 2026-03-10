@@ -14,7 +14,7 @@
 
 @media (prefers-color-scheme: dark) { /*Isso faz o site mudar automaticamente se o usuário estiver com modo escuro ativado no sistema.*/ 
   :root {
-    --background: #0a0a0a;
+    --background: #284B39;
     --foreground: #ededed;
   }
 }
@@ -24,3 +24,4 @@ body {
   color: var(--foreground);
   font-family: Arial, Helvetica, sans-serif;
 }
+
