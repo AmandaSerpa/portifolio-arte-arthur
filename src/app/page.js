@@ -1,7 +1,9 @@
+import {supabase} from "@/lib/supabase";
 import Image from "next/image";
 import Link from "next/link";
 
-export default function Home() {
+
+export default async function Home() {
   return (
     <main className="bg-[#243415]">
       
